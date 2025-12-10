@@ -1,6 +1,6 @@
 ﻿1
 00:00:07,560 --> 00:00:11,199
-She stands by the lights at the front of the audience.
+She stands by the lights at the front of the audience
 
 2
 00:00:11,780 --> 00:00:15,039
